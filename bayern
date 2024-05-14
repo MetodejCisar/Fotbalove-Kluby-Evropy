@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Bayern Mnichov - Fotbalové kluby Evropy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bayern Mnichov</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Domů</a></li>
+                <li><a href="barcelona.html">FC Barcelona</a></li>
+                <li><a href="realmadrid.html">Real Madrid</a></li>
+                <li><a href="manutd.html">Manchester United</a></li>
+                <li><a href="bayern.html">Bayern Mnichov</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Objevte Bayern Mnichov</h2>
+        <img src="images/bayern.jpg" alt="Bayern Mnichov">
+        <p>Bayern Mnichov, známý také jako Die Bayern, je jedním z nejúspěšnějších fotbalových klubů v Německu. Klub byl založen v roce 1900 a jeho domácím stadionem je Allianz Arena.</p>
+        <h3>Historie klubu</h3>
+        <p>Bayern Mnichov byl založen v roce 1900 a stal se jedním z nejvýznamnějších fotbalových klubů v Německu. Klub má bohatou historii plnou úspěchů, včetně vítězství v Bundeslize a Lize mistrů UEFA.</p>
+        <h3>Slavní hráči</h3>
+        <ul>
+            <li>Franz Beckenbauer</li>
+            <li>Gerd Müller</li>
+            <li>Philipp Lahm</li>
+            <li>Robert Lewandowski</li>
+        </ul>
+        <h3>Odkazy</h3>
+        <p>Pro více informací navštivte oficiální <a href="https://fcbayern.com/">stránky Bayern Mnichov</a>.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fotbalové kluby Evropy</p>
+    </footer>
+</body>
+</html>

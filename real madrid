@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Real Madrid - Fotbalové kluby Evropy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Real Madrid</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Domů</a></li>
+                <li><a href="barcelona.html">FC Barcelona</a></li>
+                <li><a href="realmadrid.html">Real Madrid</a></li>
+                <li><a href="manutd.html">Manchester United</a></li>
+                <li><a href="bayern.html">Bayern Mnichov</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Objevte Real Madrid</h2>
+        <img src="images/realmadrid.jpg" alt="Real Madrid">
+        <p>Real Madrid, známý také jako Los Blancos, je jedním z nejúspěšnějších fotbalových klubů v historii. Klub byl založen v roce 1902 a jeho domácím stadionem je Santiago Bernabéu.</p>
+        <h3>Historie klubu</h3>
+        <p>Real Madrid byl založen v roce 1902 a rychle se stal jedním z předních klubů ve Španělsku i Evropě. Klub má bohatou historii a mnoho významných úspěchů, včetně několika vítězství v Lize mistrů UEFA.</p>
+        <h3>Slavní hráči</h3>
+        <ul>
+            <li>Cristiano Ronaldo</li>
+            <li>Alfredo Di Stéfano</li>
+            <li>Raúl González</li>
+            <li>Zinedine Zidane</li>
+        </ul>
+        <h3>Odkazy</h3>
+        <p>Pro více informací navštivte oficiální <a href="https://www.realmadrid.com/">stránky Real Madrid</a>.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fotbalové kluby Evropy</p>
+    </footer>
+</body>
+</html>

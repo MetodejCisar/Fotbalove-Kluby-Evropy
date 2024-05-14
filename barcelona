@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>FC Barcelona - Fotbalové kluby Evropy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>FC Barcelona</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Domů</a></li>
+                <li><a href="barcelona.html">FC Barcelona</a></li>
+                <li><a href="realmadrid.html">Real Madrid</a></li>
+                <li><a href="manutd.html">Manchester United</a></li>
+                <li><a href="bayern.html">Bayern Mnichov</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Objevte FC Barcelona</h2>
+        <img src="images/barcelona.jpg" alt="FC Barcelona">
+        <p>FC Barcelona, známá také jako Barça, je jedním z nejúspěšnějších a nejpopulárnějších fotbalových klubů na světě. Klub byl založen v roce 1899 a jeho domácím stadionem je Camp Nou.</p>
+        <h3>Historie klubu</h3>
+        <p>FC Barcelona byla založena v roce 1899 a rychle se stala jedním z předních klubů ve Španělsku i Evropě. Klub má bohatou historii a mnoho významných úspěchů.</p>
+        <h3>Slavní hráči</h3>
+        <ul>
+            <li>Lionel Messi</li>
+            <li>Johan Cruyff</li>
+            <li>Xavi Hernández</li>
+            <li>Andrés Iniesta</li>
+        </ul>
+        <h3>Odkazy</h3>
+        <p>Pro více informací navštivte oficiální <a href="https://www.fcbarcelona.com/">stránky FC Barcelona</a>.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fotbalové kluby Evropy</p>
+    </footer>
+</body>
+</html>

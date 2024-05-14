@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Manchester United - Fotbalové kluby Evropy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Manchester United</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Domů</a></li>
+                <li><a href="barcelona.html">FC Barcelona</a></li>
+                <li><a href="realmadrid.html">Real Madrid</a></li>
+                <li><a href="manutd.html">Manchester United</a></li>
+                <li><a href="bayern.html">Bayern Mnichov</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Objevte Manchester United</h2>
+        <img src="images/manutd.jpg" alt="Manchester United">
+        <p>Manchester United, známý také jako Red Devils, je jedním z nejúspěšnějších fotbalových klubů v Anglii. Klub byl založen v roce 1878 a jeho domácím stadionem je Old Trafford.</p>
+        <h3>Historie klubu</h3>
+        <p>Manchester United byl založen v roce 1878 a stal se jedním z nejvýznamnějších fotbalových klubů v Anglii. Klub má bohatou historii plnou úspěchů, včetně vítězství v Premier League a Lize mistrů UEFA.</p>
+        <h3>Slavní hráči</h3>
+        <ul>
+            <li>Eric Cantona</li>
+            <li>Ryan Giggs</li>
+            <li>David Beckham</li>
+            <li>Wayne Rooney</li>
+        </ul>
+        <h3>Odkazy</h3>
+        <p>Pro více informací navštivte oficiální <a href="https://www.manutd.com/">stránky Manchester United</a>.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fotbalové kluby Evropy</p>
+    </footer>
+</body>
+</html>

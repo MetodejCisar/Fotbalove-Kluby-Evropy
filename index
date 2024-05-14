@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Fotbalové kluby Evropy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Fotbalové kluby Evropy</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Domů</a></li>
+                <li><a href="barcelona.html">FC Barcelona</a></li>
+                <li><a href="realmadrid.html">Real Madrid</a></li>
+                <li><a href="manutd.html">Manchester United</a></li>
+                <li><a href="bayern.html">Bayern Mnichov</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Vítejte na našem webu o fotbalových klubech Evropy!</h2>
+        <p>Objevte informace o čtyřech nejznámějších fotbalových klubech Evropy: FC Barcelona, Real Madrid, Manchester United a Bayern Mnichov.</p>
+        <div class="club-cards">
+            <div class="card">
+                <img src="images/barcelona.jpg" alt="FC Barcelona">
+                <h3>FC Barcelona</h3>
+                <p>Slavný katalánský klub s bohatou historií.</p>
+                <a href="barcelona.html">Více</a>
+            </div>
+            <div class="card">
+                <img src="images/realmadrid.jpg" alt="Real Madrid">
+                <h3>Real Madrid</h3>
+                <p>Královský klub s mnoha trofejemi.</p>
+                <a href="realmadrid.html">Více</a>
+            </div>
+            <div class="card">
+                <img src="images/manutd.jpg" alt="Manchester United">
+                <h3>Manchester United</h3>
+                <p>Legendární anglický klub.</p>
+                <a href="manutd.html">Více</a>
+            </div>
+            <div class="card">
+                <img src="images/bayern.jpg" alt="Bayern Mnichov">
+                <h3>Bayern Mnichov</h3>
+                <p>Dominantní klub německé Bundesligy.</p>
+                <a href="bayern.html">Více</a>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fotbalové kluby Evropy</p>
+    </footer>
+</body>
+</html>
